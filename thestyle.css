@@ -1,0 +1,57 @@
+body {
+background-image: url("https://cdn.images.dailystar.co.uk/dynamic/58/photos/463000/620x/Old-Trafford-681550.jpg");
+     background-repeat: no-repeat;
+     background-size:100%;
+}
+h1 {
+text-align:center;
+color:red;
+}
+table, th, td {
+border:2px solid red;
+padding:15px;
+margin-left: 380px;
+}
+th {
+background-color:yellow;
+color:black;
+}
+div {
+text-align:center;
+}
+div 2 {
+margin-left: 200px;
+}
+footer {
+    padding: 10px;
+    color: red;
+    background-color: black;
+    text-align: center;
+    position:fixed;
+    bottom:0; 
+    left:0;
+    right:0;
+    height:80px;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+/* visited link */
+a:visited {
+  color: black;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+p2 {
+background-color:white;
+}
+
+p3 {
+background-color:yellow;
+color:black;
+}
